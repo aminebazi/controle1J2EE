@@ -60,7 +60,7 @@ Projet de contrôle de l'UE "Architecture JEE" – 4e année IIR
 
 ```bash
 # Cloner le projet
-git clone https://github.com/ton-compte/mini-don-service.git
+https://github.com/aminebazi/controle1J2EE.git
 cd mini-don-service
 
 # Lancer l'application (avec Maven Wrapper)
